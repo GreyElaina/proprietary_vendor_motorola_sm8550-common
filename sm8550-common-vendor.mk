@@ -1454,6 +1454,7 @@ PRODUCT_PACKAGES += \
     ImsRcsService \
     QtiTelephony \
     QtiTelephonyService \
+    SoterService \
     WfdService \
     dpmserviceapp \
     ims \
