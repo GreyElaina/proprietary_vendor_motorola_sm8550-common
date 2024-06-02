@@ -1448,6 +1448,7 @@ PRODUCT_PACKAGES += \
     CACertService \
     CneApp \
     IWlanService \
+    IfaaService \
     TimeService \
     PowerOffAlarm \
     uimgbaservice \
